@@ -16,15 +16,15 @@ Live site — [Card Business Component with Preact](https://preact-laurasmithbus
 
 ## What I learned
 
-I learn a little bit about Preact.
+I learned a little bit about Preact.
 
 ### Create Preact components
 
-I learn to separate HTML code into three Preact components.
+I learned to separate HTML code into three Preact components.
 
 Preact uses the default HTML attribute which is different from React. For example, Preact uses `class` attribute while React uses `className`. This makes it easier to copy-paste HTML to Preact.
 
-I don't use destructuring when passing `props`. In this case, I use the following syntax:
+I didn't use destructuring when passing `props`. In this case, I used the following syntax:
 
 ```javascript
 export default function Button(props) {
